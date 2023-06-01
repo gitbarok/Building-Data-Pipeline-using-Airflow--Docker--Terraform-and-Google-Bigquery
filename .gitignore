@@ -1,0 +1,6 @@
+.credentials/google/tactile-vehicle-351405-2d9915b8253e.json
+.vscode/*
+
+__pycache__/
+*.py[cod]
+*$py.class
